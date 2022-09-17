@@ -17,7 +17,8 @@ Interface do usuário.
 
 <p align="center">
   <kbd>
- <img width="800" style="border-radius: 10px" height="400" src="https://github.com/edersonpaixao21/GoRestaurant/blob/master/src/assets/GitPreview.gif" alt="Intro">
+ <img width="800" style="border-radius: 10px" height="400" 
+ src="https://github.com/edersonpaixao21/GoRestaurant/blob/master/src/assets/GitPreview.gif" alt="Intro">
   </kbd>
   </br>
 </p>
